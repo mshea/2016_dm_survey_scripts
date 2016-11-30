@@ -1,0 +1,30 @@
+Of 6600 respondents on frequency of games, 43% answered weekly, 26% answered twice monthly, 13% answered monthly, 10% answered less than monthly, 6% answered twice a week, 2% answered more than twice weekly.
+
+Of 9,711 total responses to locations played, 48% answered home, 19% answered another private location, 17% answered online using Roll20, 6% answered a local game shop, 5% answered another public location, 4% answered online using another tool, 1% answered online using Fantasy Grounds.
+
+Of 6600 respondents on length of games, 44% answered about four hours, 28% answered about three hours, 17% answered about six hours, 5% answered about two hours, 4% answered about eight hours, 2% answered longer than eight hours, 0% answered about an hour.
+
+Of 6600 respondents on primary locations, 55% answered home, 16% answered roll20, 14% answered another private location, 5% answered local game shop, 4% answered another public location, 2% answered another online tool, 2% answered equal mix, 1% answered fantasy grounds.
+
+Of 6600 respondents on campaign worlds, 55% answered personal setting, 38% answered forgotten realms, 5% answered another d&d campaign world, 2% answered non-d&d campaign world.
+
+Of 6600 respondents on adventures, 64% answered personal adventures, 36% answered published adventures.
+
+Of 6600 respondents on preferred combat type, 63% answered 5' gridded combat, 19% answered abstract maps, 18% answered theater of the mind.
+
+Of 6600 respondents on preparation time, 24% answered about two hours, 23% answered about an hour, 14% answered more than four hours, 14% answered about three hours, 10% answered about 30 minutes, 8% answered about four hours, 4% answered about 15 minutes, 2% answered i don't prepare at all.
+
+Of 6600 respondents on campaign and worldbuilding, 24% answered about 30 minutes, 23% answered about an hour, 17% answered about 15 minutes, 14% answered more than two hours, 8% answered none, 8% answered about two hours, 6% answered about 5 minutes.
+
+Of 6600 respondents on story and adventures, 26% answered about an hour, 26% answered about 30 minutes, 18% answered about 15 minutes, 10% answered more than two hours, 8% answered about two hours, 7% answered about 5 minutes, 6% answered none.
+
+Of 6600 respondents on combat encounters, 28% answered about 30 minutes, 22% answered about 15 minutes, 21% answered about an hour, 12% answered about 5 minutes, 9% answered none, 5% answered about two hours, 3% answered more than two hours.
+
+Of 6600 respondents on npc development, 28% answered about 15 minutes, 24% answered about 30 minutes, 20% answered about 5 minutes, 13% answered about an hour, 10% answered none, 3% answered more than two hours, 2% answered about two hours.
+
+Of 6600 respondents on exploration and roleplay, 25% answered about 15 minutes, 23% answered about 30 minutes, 17% answered about 5 minutes, 16% answered none, 13% answered about an hour, 3% answered more than two hours, 3% answered about two hours.
+
+Of 6600 respondents on treasure and magic items, 31% answered about 5 minutes, 25% answered about 15 minutes, 23% answered none, 13% answered about 30 minutes, 5% answered about an hour, 1% answered more than two hours, 1% answered about two hours.
+
+Of 6600 respondents on prop and handouts, 45% answered none, 20% answered about 5 minutes, 15% answered about 15 minutes, 11% answered about 30 minutes, 6% answered about an hour, 2% answered more than two hours, 2% answered about two hours.
+
