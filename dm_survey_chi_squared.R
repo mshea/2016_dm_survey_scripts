@@ -27,11 +27,13 @@ for (combo_num in 1:length(keeps_combos)) {
   rownames(m) <- m[,1]
   m <- m[ -c(1) ]
   print(columns_to_compare[i])
-  print(columns_to_compare[x])
+  #print(columns_to_compare[x])
   ch <- chisq.test(m)
   
-  print(chisq.test(m))
-  output_filename = paste("~/Documents/dm_survey_data/corrplots/",columns_to_compare[i], "-", columns_to_compare[x], "_corrplot.png", sep = "")
+  #print(chisq.test(m))
+  filename = paste(gsub(" ", "_", columns_to_compare[i]), "-", gsub(" ", "_", columns_to_compare[x]), "_corrplot.png",sep="")
+  print(paste("* <a href='./images/2016_dm_survey_",filename,"\'>",columns_to_compare[i], " by ", columns_to_compare[x],"</a>",sep=""))
+  output_filename = paste("~/Documents/dm_survey_data/corrplots/2016_dm_survey_",filename, sep = "")
   png(filename = output_filename, height=1200, width=1200, pointsize = 24)
   corrplot(ch$residuals, is.cor = FALSE,tl.col = "black",
            title=paste("Correlations of", columns_to_compare[i],"and",columns_to_compare[x]),

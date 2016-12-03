@@ -1,7 +1,5 @@
 Of 6600 respondents on frequency of games, 43% answered weekly, 26% answered twice monthly, 13% answered monthly, 10% answered less than monthly, 6% answered twice a week, 2% answered more than twice weekly.
 
-Of 9,711 total responses to locations played, 48% answered home, 19% answered another private location, 17% answered online using Roll20, 6% answered a local game shop, 5% answered another public location, 4% answered online using another tool, 1% answered online using Fantasy Grounds.
-
 Of 6600 respondents on length of games, 44% answered about four hours, 28% answered about three hours, 17% answered about six hours, 5% answered about two hours, 4% answered about eight hours, 2% answered longer than eight hours, 0% answered about an hour.
 
 Of 6600 respondents on primary locations, 55% answered home, 16% answered roll20, 14% answered another private location, 5% answered local game shop, 4% answered another public location, 2% answered another online tool, 2% answered equal mix, 1% answered fantasy grounds.

@@ -56,4 +56,4 @@ d <- rbind(unique(d),c)
 
 potential_dupes <- total_rows - nrow(d)
 
-write.csv(d, file = "~/Documents/dm_survey_data/dm_survey_clean.csv")
+write.csv(d, file = "~/Documents/dm_survey_data/dm_survey_clean.csv", row.names=FALSE)
